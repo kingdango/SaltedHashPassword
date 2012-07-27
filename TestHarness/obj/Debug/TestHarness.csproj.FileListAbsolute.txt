@@ -1,0 +1,7 @@
+C:\Users\aking\Documents\GitHub\Kingdango.SaltedHashPassword\TestHarness\bin\Debug\TestHarness.exe
+C:\Users\aking\Documents\GitHub\Kingdango.SaltedHashPassword\TestHarness\bin\Debug\TestHarness.pdb
+C:\Users\aking\Documents\GitHub\Kingdango.SaltedHashPassword\TestHarness\bin\Debug\Kingdango.SaltedHashPassword.dll
+C:\Users\aking\Documents\GitHub\Kingdango.SaltedHashPassword\TestHarness\bin\Debug\Kingdango.SaltedHashPassword.pdb
+C:\Users\aking\Documents\GitHub\Kingdango.SaltedHashPassword\TestHarness\obj\Debug\TestHarness.csprojResolveAssemblyReference.cache
+C:\Users\aking\Documents\GitHub\Kingdango.SaltedHashPassword\TestHarness\obj\Debug\TestHarness.exe
+C:\Users\aking\Documents\GitHub\Kingdango.SaltedHashPassword\TestHarness\obj\Debug\TestHarness.pdb

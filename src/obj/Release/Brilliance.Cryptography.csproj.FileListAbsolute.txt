@@ -1,0 +1,9 @@
+C:\Users\aking\Documents\Visual Studio 2012\Projects\Brilliance.Cryptography\Brilliance.Cryptography\bin\Release\Brilliance.Cryptography.dll
+C:\Users\aking\Documents\Visual Studio 2012\Projects\Brilliance.Cryptography\Brilliance.Cryptography\bin\Release\Brilliance.Cryptography.pdb
+C:\Users\aking\Documents\Visual Studio 2012\Projects\Brilliance.Cryptography\Brilliance.Cryptography\obj\Release\Brilliance.Cryptography.dll
+C:\Users\aking\Documents\Visual Studio 2012\Projects\Brilliance.Cryptography\Brilliance.Cryptography\obj\Release\Brilliance.Cryptography.pdb
+c:\TFS\Development\Src\Brilliance.Cryptography\Brilliance.Cryptography\bin\Release\Brilliance.Cryptography.dll
+c:\TFS\Development\Src\Brilliance.Cryptography\Brilliance.Cryptography\bin\Release\Brilliance.Cryptography.pdb
+c:\TFS\Development\Src\Brilliance.Cryptography\Brilliance.Cryptography\obj\Release\Brilliance.Cryptography.csprojResolveAssemblyReference.cache
+c:\TFS\Development\Src\Brilliance.Cryptography\Brilliance.Cryptography\obj\Release\Brilliance.Cryptography.dll
+c:\TFS\Development\Src\Brilliance.Cryptography\Brilliance.Cryptography\obj\Release\Brilliance.Cryptography.pdb
